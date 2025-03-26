@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/MyUnreal2/Content/Characters/MyChar/MyCharRig.uasset",
+				"C:/BootCamp1/MyUnreal2/Content/Characters/MyChar/RTG_Mannequins_To_MyChar.uasset",
+				"C:/BootCamp1/MyUnreal2/Content/ThirdPerson/Blueprints/BP_MyChar.uasset",
+				"C:/BootCamp1/MyUnreal2/Content/Characters/MyChar/Animations/ABP_MyManny.uasset"
+			]
+		}
+	]
+}
