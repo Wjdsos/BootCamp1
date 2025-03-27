@@ -4708,3 +4708,119 @@ FPackageName: Skipped package /Game/Blueprints/BP_Ball1 has a valid, mounted, mo
 [2025.03.27-07.23.33:810][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.27-07.23.33:810][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.27-07.23.33:810][714]AssetCheck: /Game/ThirdPerson/Blueprints/BP_SwichBox Validating asset
+[2025.03.27-07.25.48:408][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7949.308105
+[2025.03.27-07.25.49:407][474]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-07.25.49:407][474]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7949.975098, Update Interval: 338.383728
+[2025.03.27-07.32.11:872][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8332.771484
+[2025.03.27-07.32.12:872][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-07.32.12:872][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8333.441406, Update Interval: 317.285675
+[2025.03.27-07.37.34:366][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.27-07.37.34:370][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/ZCIYSDA0DNK68FBD8J7TZT_Auto0
+[2025.03.27-07.37.34:370][624]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/ZCIYSDA0DNK68FBD8J7TZT_Auto0F3272D594012D08BDE0BC5BC278CB5F6.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/ZCIYSDA0DNK68FBD8J7TZT_Auto0.uasset'
+[2025.03.27-07.37.34:372][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LX/QWT91CVXGJMGOSA5XLDSCO_Auto0
+[2025.03.27-07.37.34:372][624]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/QWT91CVXGJMGOSA5XLDSCO_Auto0C1E8CCBF4AD5812289EBE485A2648070.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LX/QWT91CVXGJMGOSA5XLDSCO_Auto0.uasset'
+[2025.03.27-07.37.34:375][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9G/VOFS3AI4U056PDT0MV9C34_Auto0
+[2025.03.27-07.37.34:375][624]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/VOFS3AI4U056PDT0MV9C34_Auto079A1E4774A2F4B212EEEAFA6856097AC.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9G/VOFS3AI4U056PDT0MV9C34_Auto0.uasset'
+[2025.03.27-07.37.34:377][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B8/BI00Z7VZOH90AYNCDRGA4U_Auto0
+[2025.03.27-07.37.34:377][624]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BI00Z7VZOH90AYNCDRGA4U_Auto0DAA702C0401692F869961397E73202A7.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B8/BI00Z7VZOH90AYNCDRGA4U_Auto0.uasset'
+[2025.03.27-07.37.34:378][624]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2025.03.27-07.37.34:379][624]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2025.03.27-07.37.34:379][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Spawner] ([2] browsable assets)...
+[2025.03.27-07.37.34:379][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Spawner]
+[2025.03.27-07.37.34:379][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Spawner" FILE="../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/BluePrint/BP_Spawner_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.03.27-07.37.34:387][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Spawner_Auto0
+[2025.03.27-07.37.34:387][624]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BP_Spawner_Auto0C2F7A8434518424470359F8185E3DA6D.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/BluePrint/BP_Spawner_Auto0.uasset'
+[2025.03.27-07.37.34:388][624]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.03.27-07.38.17:897][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8698.849609
+[2025.03.27-07.38.18:894][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-07.38.18:894][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8699.512695, Update Interval: 348.639801
+[2025.03.27-07.41.15:866][970]LogEditorTransaction: Undo Create Pin Link
+[2025.03.27-07.41.16:108][971]LogEditorTransaction: Undo Move Node
+[2025.03.27-07.41.16:383][972]LogEditorTransaction: Undo Add Node
+[2025.03.27-07.41.16:664][973]LogEditorTransaction: Undo Create Pin Link
+[2025.03.27-07.41.17:597][ 60]LogEditorTransaction: Undo Move Node
+[2025.03.27-07.41.18:621][158]LogEditorTransaction: Undo Delete current selection
+[2025.03.27-07.41.20:197][319]LogEditorTransaction: Undo Rename Node
+[2025.03.27-07.41.20:692][326]LogEditorTransaction: Undo Add Node
+[2025.03.27-07.41.21:195][365]LogEditorTransaction: Undo Create Pin Link
+[2025.03.27-07.41.21:658][411]LogEditorTransaction: Undo Move Node
+[2025.03.27-07.41.22:087][450]LogEditorTransaction: Undo Delete current selection
+[2025.03.27-07.44.43:869][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9084.821289
+[2025.03.27-07.44.44:107][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-07.44.44:107][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9085.048828, Update Interval: 349.505920
+[2025.03.27-07.47.34:687][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.27-07.47.34:692][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO_Auto1
+[2025.03.27-07.47.34:692][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/NB37RT5Q32Z8MJWD8BD2SO_Auto14BE7293A47DDAB45517516827E19F48E.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO_Auto1.uasset'
+[2025.03.27-07.47.34:694][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1
+[2025.03.27-07.47.34:694][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BEYC27T14FHBU6LF2F60RR_Auto1F5A82BD440ED483F98D3E7B6E341708A.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1.uasset'
+[2025.03.27-07.47.34:696][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DT/FJ9DDSYOZ84HLKU7SZACIQ_Auto1
+[2025.03.27-07.47.34:697][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/FJ9DDSYOZ84HLKU7SZACIQ_Auto15DAFA1C14B4AF1EBFD120699CD7409EC.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DT/FJ9DDSYOZ84HLKU7SZACIQ_Auto1.uasset'
+[2025.03.27-07.47.34:700][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/ZCIYSDA0DNK68FBD8J7TZT_Auto1
+[2025.03.27-07.47.34:700][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/ZCIYSDA0DNK68FBD8J7TZT_Auto1C0B8886D4A58D2EF2F75EBBBA477E8BF.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/ZCIYSDA0DNK68FBD8J7TZT_Auto1.uasset'
+[2025.03.27-07.47.34:702][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/S6/NCL006PNSJH10P3I0J191Z_Auto1
+[2025.03.27-07.47.34:702][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/NCL006PNSJH10P3I0J191Z_Auto1B26E328C426B3D74090E11B25C3F66D7.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/S6/NCL006PNSJH10P3I0J191Z_Auto1.uasset'
+[2025.03.27-07.47.34:704][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LX/QWT91CVXGJMGOSA5XLDSCO_Auto1
+[2025.03.27-07.47.34:704][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/QWT91CVXGJMGOSA5XLDSCO_Auto1C24AEFB7489ECDCA667ACF8AFA902A90.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LX/QWT91CVXGJMGOSA5XLDSCO_Auto1.uasset'
+[2025.03.27-07.47.34:707][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/RCWNVU1Y5VL13YKQZT9M3V_Auto1
+[2025.03.27-07.47.34:707][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/RCWNVU1Y5VL13YKQZT9M3V_Auto1264299854EB9FEEB59BD4591113688D3.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/RCWNVU1Y5VL13YKQZT9M3V_Auto1.uasset'
+[2025.03.27-07.47.34:709][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9G/VOFS3AI4U056PDT0MV9C34_Auto1
+[2025.03.27-07.47.34:709][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/VOFS3AI4U056PDT0MV9C34_Auto1CC57883E4AE95EB596EC678CB6C2203A.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9G/VOFS3AI4U056PDT0MV9C34_Auto1.uasset'
+[2025.03.27-07.47.34:711][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B8/BI00Z7VZOH90AYNCDRGA4U_Auto1
+[2025.03.27-07.47.34:712][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BI00Z7VZOH90AYNCDRGA4U_Auto1650F0CD440313684B28A3DB16924C2F1.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B8/BI00Z7VZOH90AYNCDRGA4U_Auto1.uasset'
+[2025.03.27-07.47.34:713][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.083
+[2025.03.27-07.47.34:713][603]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2025.03.27-07.47.34:713][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.03.27-07.47.34:713][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.03.27-07.47.34:716][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1
+[2025.03.27-07.47.34:717][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BP_ThirdPersonGameMode_Auto12D4D3D01409B44CAFBEA22A4ADF6A0D7.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1.uasset'
+[2025.03.27-07.47.34:718][603]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_SwichBox] ([2] browsable assets)...
+[2025.03.27-07.47.34:766][603]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_SwichBox.BP_SwichBox]
+[2025.03.27-07.47.34:766][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_SwichBox]
+[2025.03.27-07.47.34:775][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_SwichBox_Auto1
+[2025.03.27-07.47.34:776][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BP_SwichBox_Auto10B75E2034019122051532083ABC2B783.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_SwichBox_Auto1.uasset'
+[2025.03.27-07.47.34:777][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Spawner] ([2] browsable assets)...
+[2025.03.27-07.47.34:777][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Spawner]
+[2025.03.27-07.47.34:777][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Spawner" FILE="../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/BluePrint/BP_Spawner_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.27-07.47.34:785][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Spawner_Auto1
+[2025.03.27-07.47.34:785][603]LogSavePackage: Moving '../../../../../../BootCamp1/MyUnreal2/Saved/BP_Spawner_Auto1E7C61DDB4EE5232985D2DA97691B5610.tmp' to '../../../../../../BootCamp1/MyUnreal2/Saved/Autosaves/Game/BluePrint/BP_Spawner_Auto1.uasset'
+[2025.03.27-07.47.34:786][603]LogFileHelpers: Auto-saving content packages took 0.073
+[2025.03.27-07.47.34:816][603]LogCore: Warning: Element 'BoxComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spawner_C_UAID_B42E99458453325902_1080082287.None - ID: 185' is still externally referenced when being destroyed. Ref-count: 3;
+[2025.03.27-07.47.34:817][604]LogCore: Warning: Enable CVar 'TypedElements.EnableReferenceTracking' for Element reference tracking.
+[2025.03.27-07.47.34:818][604]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.03.27-07.47.34:829][604]LogWindows: Error: appError called: Assertion failed: RegisteredElementType [File:D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementFramework\Public\Elements\Framework\TypedElementRegistry.h] [Line: 612] 
+Element type ID '0' has not been registered!
+
+[2025.03.27-07.47.34:829][604]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2025.03.27-07.47.37:153][604]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1813ms], ThreadID=10816
+[2025.03.27-07.47.37:153][604]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.03.27-07.47.37:153][604]LogWindows: Error: === Critical error: ===
+[2025.03.27-07.47.37:153][604]LogWindows: Error: 
+[2025.03.27-07.47.37:153][604]LogWindows: Error: Assertion failed: RegisteredElementType [File:D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementFramework\Public\Elements\Framework\TypedElementRegistry.h] [Line: 612] 
+[2025.03.27-07.47.37:153][604]LogWindows: Error: Element type ID '0' has not been registered!
+[2025.03.27-07.47.37:153][604]LogWindows: Error: 
+[2025.03.27-07.47.37:153][604]LogWindows: Error: 
+[2025.03.27-07.47.37:153][604]LogWindows: Error: [Callstack] 0x00007fff45227519 UnrealEditor-TypedElementFramework.dll!UnknownFunction []
+[2025.03.27-07.47.37:153][604]LogWindows: Error: [Callstack] 0x00007fff51dccd41 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:153][604]LogWindows: Error: [Callstack] 0x00007fff51dd8ce2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:153][604]LogWindows: Error: [Callstack] 0x00007fff51504bfb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fff51afd09c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fff515dfb20 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fff57da196b UnrealEditor-Engine.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fff51531401 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fff51525232 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fff521b42c6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007ff6ad5a6b47 UnrealEditor.exe!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007ff6ad5c57ac UnrealEditor.exe!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007ff6ad5c589a UnrealEditor.exe!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007ff6ad5c9114 UnrealEditor.exe!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007ff6ad5dbd04 UnrealEditor.exe!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007ff6ad5df0ba UnrealEditor.exe!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: [Callstack] 0x00007fffbd0c7374 KERNEL32.DLL!UnknownFunction []
+[2025.03.27-07.47.37:154][604]LogWindows: Error: 
+[2025.03.27-07.47.37:157][604]LogExit: Executing StaticShutdownAfterError
+[2025.03.27-07.47.37:166][604]LogWindows: FPlatformMisc::RequestExit(1, LaunchWindowsStartup.ExceptionHandler)
+[2025.03.27-07.47.37:166][604]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, LaunchWindowsStartup.ExceptionHandler)
+[2025.03.27-07.47.37:166][604]LogCore: Engine exit requested (reason: Win RequestExit)
