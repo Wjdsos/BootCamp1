@@ -9,7 +9,14 @@
 				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_Swich.uasset",
 				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_Ball.uasset",
 				"C:/BootCamp1/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AT/1PZ3GAIX4UJTJ07B4LM0MB.uasset",
-				"C:/BootCamp1/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OJ/74J2H52MD6CMJTHX9CG4DC.uasset"
+				"C:/BootCamp1/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OJ/74J2H52MD6CMJTHX9CG4DC.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_CountBox.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_Timer.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/HUD_Widget.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_Huddd.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/EX1/Content/ThirdPerson/Blueprints/BP_HU.uasset"
 			]
 		}
 	]
