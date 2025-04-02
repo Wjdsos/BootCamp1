@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_RightMove.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_MoveLeftRight.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_MoveRect.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_Timer.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_Coin.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_Switch.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/EN_Movetype.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/W7/VX2H0Q6VLJBHG04YCA65CR.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/NF/ZRZAIHGGQ2VOOTPXTYI8PZ.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BPI_Interface.uasset",
+				"C:/BootCamp1/EX2/Content/BluePrint/BP_SwitchBox.uasset"
+			]
+		}
+	]
+}
