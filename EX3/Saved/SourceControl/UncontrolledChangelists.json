@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_MoveRight_Delicate.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_MoveRect_Delicate.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_Bullet_Delicate.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_Cannon_Delicate.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_SwitchBox_Delicate.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HX/M4IUA9L85RW17HBMM7ZRQ1.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/1W/URBGWUDXHTXWWBGRC4R1K1.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/EN_MoveType.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ZY/QZJFI2ZJAXHJ94LO3ABXXV.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/CountWidget.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_CountBox_Duplicate.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BP_CountBox_Delicate.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1X/QYO4TGTGPFL7Y16YJVH32Q.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/60/RE5AISWW5PEPVY5W1AXL6N.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UK/QI9Q0H4QIDJZ58ETOWQ9OD.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0D/CGPXYQELT1TGW7SXKN28TS.uasset",
+				"C:/BootCamp1/EX3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/E9/WK668J1AMOG97753OBUA4M.uasset",
+				"C:/BootCamp1/EX3/Content/BluePrint/BPI_Overlap.uasset"
+			]
+		}
+	]
+}
