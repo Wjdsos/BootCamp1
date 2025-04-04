@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TestPlugin",
+	"Description": "TestPlugin",
+	"Category": "Other",
+	"CreatedBy": "TaeSung",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true
+}

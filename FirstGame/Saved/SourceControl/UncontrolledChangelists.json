@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/FirstGame/Content/AI/BP_AI_Character.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/BP_AI_Controller.uasset",
+				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XU/O2FWRU7QVZ9NB0KUV8QF5G.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/BT_AI_Character.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/Task_FindTarget.uasset",
+				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HA/RN9V8YT3C41SRCI2JFQ00A.uasset",
+				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/OJ/NJDEI0ZK7HU8NAT616OJR8.uasset",
+				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/EN_AIType.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/EN_AIState.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/Task_CheckBattleDistance.uasset"
+			]
+		}
+	]
+}

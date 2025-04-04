@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/EX4/Content/Main/BP_RectBox.uasset",
+				"C:/BootCamp1/EX4/Content/Main/EN_MoveType.uasset",
+				"C:/BootCamp1/EX4/Content/Main/BP_SwitchBox.uasset",
+				"C:/BootCamp1/EX4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TJ/FG6Z0GN6EMIQK8XUWMFAAC.uasset",
+				"C:/BootCamp1/EX4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DF/7DQI6JU0PT20TPTAM660A7.uasset",
+				"C:/BootCamp1/EX4/Content/Main/CountWidget.uasset",
+				"C:/BootCamp1/EX4/Content/Main/BP_CountBox.uasset",
+				"C:/BootCamp1/EX4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/IV/LKCHRBH1Y3XMUG9M9VOCCV.uasset",
+				"C:/BootCamp1/EX4/Content/Main/BP_Timer.uasset",
+				"C:/BootCamp1/EX4/Content/Main/TimerWidget.uasset",
+				"C:/BootCamp1/EX4/Content/Main/BP_Arrow.uasset"
+			]
+		}
+	]
+}
