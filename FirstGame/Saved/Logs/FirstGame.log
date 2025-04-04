@@ -8560,3 +8560,6 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.04.04-08.49.52:425][760]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.04.04-08.49.52:425][760]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.04.04-08.49.52:425][760]LogPakFile: Destroying PakPlatformFile
+[2025.04.04-08.49.54:083][760]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.04-08.49.54:123][760]LogExit: Exiting.
+[2025.04.04-08.49.54:172][760]Log file closed, 04/04/25 17:49:54
