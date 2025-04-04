@@ -17,7 +17,13 @@
 				"C:/BootCamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
 				"C:/BootCamp1/FirstGame/Content/AI/EN_AIType.uasset",
 				"C:/BootCamp1/FirstGame/Content/AI/EN_AIState.uasset",
-				"C:/BootCamp1/FirstGame/Content/AI/Task_CheckBattleDistance.uasset"
+				"C:/BootCamp1/FirstGame/Content/AI/Task_CheckBattleDistance.uasset",
+				"C:/BootCamp1/FirstGame/Content/Characters/Attack/Anim_Attack.uasset",
+				"C:/BootCamp1/FirstGame/Content/Characters/Attack/Anim_Attack_Montage.uasset",
+				"C:/BootCamp1/FirstGame/Content/Characters/Attack/Anim_ComboAttack.uasset",
+				"C:/BootCamp1/FirstGame/Content/Characters/Attack/Anim_ComboAttack_Montage.uasset",
+				"C:/BootCamp1/FirstGame/Content/Characters/Attack/Anim_ShortAttack.uasset",
+				"C:/BootCamp1/FirstGame/Content/AI/BB_AI_Character.uasset"
 			]
 		}
 	]
