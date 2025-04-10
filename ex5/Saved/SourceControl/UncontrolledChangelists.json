@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/ex5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_Coin.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/EN_GameState.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/GoalArea.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/HUD_Widget.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5V/AVPHFC13CC6J2YWU8K53IJ.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VN/LZ0V9R38DPBVC2SHADWT2I.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8W/3N0B8KF7UWGQ41EYEXDRPU.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/A1/6HQ0OZUC5LP2JT8KMC7GDI.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/8Z/PJEB0PX1A7LVYT79H6PMTD.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SP/MHIU4H73AQYNU6JLB9C98K.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F0/PUBUCGE9N6I9MVAK2YEZXM.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/18/68YCBKVOBOFKS079IBQEBY.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/J6/9H4ZGUN5DBYQHHV3UJRAOJ.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_PlayerState.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1W/BLAPNXI6W1HA07T74BSWV2.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
