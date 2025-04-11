@@ -8,7 +8,6 @@
 				"C:/BootCamp1/ex5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_Coin.uasset",
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/EN_GameState.uasset",
-				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_.uasset",
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/GoalArea.uasset",
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/HUD_Widget.uasset",
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
@@ -25,7 +24,14 @@
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1W/BLAPNXI6W1HA07T74BSWV2.uasset",
-				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W3/3E2ZO0DBET5ATS6P9UFE1Q.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LG/XHBLJHERG5FFHIC3E23H9S.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9D/T3FD8DFVME6VUBHITLY575.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/G4/5RV56HM9PHY8Z99PQSDK54.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9Y/32L255OG5UP7UP0UTU731Q.uasset",
+				"C:/BootCamp1/ex5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/01/CLLWYEJ54VVN2GOR4MW903.uasset",
+				"C:/BootCamp1/ex5/Content/ThirdPerson/Blueprints/BP_.uasset"
 			]
 		}
 	]
