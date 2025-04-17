@@ -23,7 +23,11 @@
 				"C:/BootCamp1/AniAnimTest/Content/Weapon/DT_Monsters.uasset",
 				"C:/BootCamp1/AniAnimTest/Content/Weapon/SM_Dummy.uasset",
 				"C:/BootCamp1/AniAnimTest/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/BootCamp1/AniAnimTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PE/ZTTCSWFCPDNH842Z7EYJUA.uasset"
+				"C:/BootCamp1/AniAnimTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PE/ZTTCSWFCPDNH842Z7EYJUA.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/BPI_NameTag.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/SM_Dummy_SM_Dummy/GC_Dummy.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/StarterContent/Materials/M_Concrete_Tiles.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/NameTagWidget.uasset"
 			]
 		}
 	]
