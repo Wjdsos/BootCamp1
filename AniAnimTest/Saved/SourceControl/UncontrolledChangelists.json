@@ -16,7 +16,14 @@
 				"C:/BootCamp1/AniAnimTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/BootCamp1/AniAnimTest/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
 				"C:/BootCamp1/AniAnimTest/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/BootCamp1/AniAnimTest/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+				"C:/BootCamp1/AniAnimTest/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/ST_MonState.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/ST_CurMonState.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/NameTagObjWidget.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/DT_Monsters.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/Weapon/SM_Dummy.uasset",
+				"C:/BootCamp1/AniAnimTest/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/BootCamp1/AniAnimTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PE/ZTTCSWFCPDNH842Z7EYJUA.uasset"
 			]
 		}
 	]
