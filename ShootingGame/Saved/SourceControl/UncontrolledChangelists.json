@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/ShootingGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Lyra_Anim/ABP_Shooting.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Lyra_Anim/CR_HandleL.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Lyra_Anim/BS_Shooting.uasset",
+				"C:/BootCamp1/ShootingGame/Content/ThirdPerson/Blueprints/BP_ShootingCharacter.uasset",
+				"C:/BootCamp1/ShootingGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Lyra_Anim/Rifle/MM_Rifle_Jump_Fall_Land.uasset",
+				"C:/BootCamp1/ShootingGame/Content/ThirdPerson/Blueprints/BPI_Character.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Weapon/BP_Weapon.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/BootCamp1/ShootingGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SM_KA47_X.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Characters/Mannequins/Meshes/CR_HandleL.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Characters/Mannequins/Meshes/ABP_Shooting.uasset",
+				"C:/BootCamp1/ShootingGame/Content/Characters/Mannequins/Meshes/BS_Shooting.uasset"
+			]
+		}
+	]
+}
