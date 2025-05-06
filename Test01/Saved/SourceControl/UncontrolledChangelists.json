@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Player/HudWidget.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Player/BP_PlayerState.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Player/BP_HUD.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Items/ItemSpawnComponent.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Items/ItemBase.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Items/BP_Red.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Items/Item_Blue.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/Survival/Items/Item_Green.uasset",
+				"C:/Users/vurry/Documents/BootCamp1/Test01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GH/I2SFT048AG8QXOVVCAATU3.uasset"
+			]
+		}
+	]
+}
