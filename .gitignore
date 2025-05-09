@@ -1,4 +1,3 @@
-/HelloUnreal/Saved
-/HelloUnreal/Intermediate
-/EX1/Intermediate
-/EX1/Saved
+**/Intermediate
+**/Saved
+**/DerivedDataCache
